@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "forLoops",
+            "program": "${workspaceFolder}/forLoops.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "mergeSreso",
+            "program": "${workspaceFolder}/mergeSreso.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "stringRsolution",
+            "program": "${workspaceFolder}/stringRsolution.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "stringR",
+            "program": "${workspaceFolder}/stringReversal.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "mergeS",
+            "program": "${workspaceFolder}/mergeSort.js"
+        }
+    ]
+}
